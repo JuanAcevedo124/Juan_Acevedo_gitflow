@@ -1,0 +1,6 @@
+print('BIenvenido a la caluladora')
+print('que funcion desea realizar')
+print('1- suma ')
+print('2- resta')
+print('3- multiplicacion')
+print('4- division')
